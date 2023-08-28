@@ -1,0 +1,18 @@
+body{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+}
+
+p{
+    color: purple ;
+    font-size: 2rem;
+    font-weight: 900;
+    font-family: 'Caveat' , cursive;
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+h1{
+    /* change text color */
+    color: blueviolet;
+}
+
+
+/* In css you can use . for class */
+.heading{
+    color: palevioletred;
+}
+
+
+/* In css you can use # for id */
+#jack{
+    color: blueviolet;
+}
+
+
+/* ("universal selector") select all */
+*{
+    color: red;
+}
+
+
+/* ("attribute selector") */
+h3[draggable]{
+    background-color: aqua;
+}
+
+h3[draggable="true"]{
+    background-color: yellow;
+}

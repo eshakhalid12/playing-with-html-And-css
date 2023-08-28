@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    color: blueviolet;
+    font-weight: bolder;
+    background-color: rgb(91, 240, 240);
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.pink{
+    color: palevioletred;
+}

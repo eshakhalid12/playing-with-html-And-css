@@ -1,0 +1,19 @@
+body{
+    background-color: #7eb9ac;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+img{
+    height: 400px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 540px;
+    border: 5px solid black;
+}
+
+.head-1{
+    text-align: center;
+}
